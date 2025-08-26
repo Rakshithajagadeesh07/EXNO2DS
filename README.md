@@ -132,4 +132,5 @@ sns.heatmap(corr1 , annot=True)
 
 
 # RESULT
-All conditions are execute Successfully
+Thus exploratory data analysis on the given data set has been executed successfully.
+
